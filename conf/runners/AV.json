@@ -1,0 +1,7 @@
+{
+  "name": "AV deploy from home",
+  "script_path": "AV.py",
+  "description": "Pull the new commit from master and restard AV thread",
+  "working_directory": "./conf/runners",
+  "parameters": [  ]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ENLP deploy from home",
+  "script_path": "ENLP.py",
+  "description": "Pull the new commit from master and restard ENLP thread",
+  "working_directory": "./conf/runners",
+  "parameters": [  ]
+}

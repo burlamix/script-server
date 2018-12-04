@@ -1,0 +1,7 @@
+{
+  "name": "CV deploy from home",
+  "script_path": "CV.py",
+  "description": "Pull the new commit from master and restard CV thread",
+  "working_directory": "./conf/runners",
+  "parameters": [  ]
+}
