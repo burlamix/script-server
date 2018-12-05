@@ -1,6 +1,6 @@
 {
   "name": "GNLP deploy from home",
-  "script_path": "GNLP.py",
+  "script_path": "python GNLP.py",
   "description": "Pull the new commit from master and restard GNLP thread",
   "working_directory": "./conf/runners",
   "parameters": [  ]

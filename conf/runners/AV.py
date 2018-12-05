@@ -6,12 +6,9 @@ import os
 
 print("Start running your script....\n")
 os.system("ls")
-os.chdir("../../../../SmartApp.AV")
+os.chdir("../../../../SmartApp.")
 os.system("ls")
 
-os.system("python fc.py &")
-
-#for windos
-os.system("start /b python fc.py &")
+os.system("git pull")
 
 print("Your script is running! ")

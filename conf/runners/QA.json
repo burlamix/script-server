@@ -1,6 +1,6 @@
 {
   "name": "QA deploy from home",
-  "script_path": "QA.py",
+  "script_path": "python QA.py",
   "description": "Pull the new commit from master and restard QA thread",
   "working_directory": "./conf/runners",
   "parameters": [  ]

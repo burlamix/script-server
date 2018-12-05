@@ -1,6 +1,6 @@
 {
   "name": "CRW deploy from home",
-  "script_path": "CRW.py",
+  "script_path": "python CRW.py",
   "description": "Pull the new commit from master and restard CRW thread",
   "working_directory": "./conf/runners",
   "parameters": [  ]

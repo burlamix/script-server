@@ -1,6 +1,6 @@
 {
   "name": "HAL deploy from home",
-  "script_path": "HAL.py",
+  "script_path": "python HAL.py",
   "description": "Pull the new commit from master and restard HAL thread",
   "working_directory": "./conf/runners",
   "parameters": [  ]

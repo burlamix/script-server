@@ -9,9 +9,6 @@ os.system("ls")
 os.chdir("../../../../SmartApp.GNLP")
 os.system("ls")
 
-os.system("python fc.py &")
-
-#for windos
-os.system("start /b python fc.py &")
+os.system("git pull")
 
 print("Your script is running! ")
